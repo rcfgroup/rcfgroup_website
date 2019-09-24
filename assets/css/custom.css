@@ -1,3 +1,6 @@
 .people-widget .col-sm-auto {
 	width:95%;
 }
+.carousel-control-next, .carousel-control-prev {
+	display:none;
+}
